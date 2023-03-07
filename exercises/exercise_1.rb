@@ -4,3 +4,6 @@ puts "Exercise 1"
 puts "----------"
 
 # Your code goes below here ...
+class Stores < Burnaby
+p = Stores.new 
+p.annual_revenue = 300000
